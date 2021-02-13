@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any FOSS Project
 - 📫 How to reach me: https://t.me/adeyneame
 
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/s_akhmedoff?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/s_akhmedoff?style=social) 
+<center> ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/s_akhmedoff?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/s_akhmedoff?style=social) </center>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-akhmedoff)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-akhmedoff&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 <!---
