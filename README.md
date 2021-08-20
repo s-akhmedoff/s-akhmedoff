@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-akhmedoff
 - 👀 I’m interested in Golang, Back-End, Microservice Architecture
-- 🌱 I’m currently learning how to reverse engineering golang executables
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on any FOSS Project
 - 📫 How to reach me: https://t.me/adeyneame
 
